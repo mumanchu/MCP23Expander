@@ -1,11 +1,9 @@
 # MCP23Expander
-Drivers for I2C and SPI 8- and 16-bit GPIO Expanders, MCP23008, MCP23S008, MCP23017 etc.
+Arduino library for I2C and SPI 8/16-bit GPIO Expanders, MCP23008, MCP23S008, MCP23017 etc.
 
 ## **PRELIMINARY**
-_Work in progress..._
 
+See the blog post for details, \
+https://muman.ch/muman/index.htm?muman-mcp23017.htm
 
-## Data Sheets
-
-https://ww1.microchip.com/downloads/en/DeviceDoc/MCP23008-MCP23S08-Data-Sheet-20001919F.pdf
 
